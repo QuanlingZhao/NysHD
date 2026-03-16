@@ -3,7 +3,7 @@
 Official repository for the paper:
 
 **Bridging the Gap between Hyperdimensional Computing and Kernel Methods via the Nyström Method**  
-[[Paper]]([https://ojs.aaai.org/index.php/AAAI/article/view/34442])
+[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/34442)
 
 ```bibtex
 @inproceedings{zhao2025bridging,
