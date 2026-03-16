@@ -29,7 +29,7 @@ Hyperdimensional computing (HDC) is an approach from the cognitive science liter
 ├── Framework/                  # HDC baselines and NysHD implementation on reported datasets
 ├── Sensitivity/                # Ablation study on hyperparameters
 └── README.md
-
+```
 
 
 # To Run
